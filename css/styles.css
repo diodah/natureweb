@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: darkseagreen;
+    background-color: yellowgreen;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -34,7 +34,7 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #333;
+    background-color: yellowgreen;
     color: #fff;
     position: fixed;
     width: 100%;
